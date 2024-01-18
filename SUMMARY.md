@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Intro (prologue)](README.md)
+* [ReadMeFirst](readmefirst.md)
 * [PART A: Sim FC (SITL)](part-a-sim-fc-sitl.md)
 * [Ch 1: SITL](ch-1-sitl.md)
 * [Ch 2: AI (real camera/CC)](ch-2-ai-real-camera-cc.md)
