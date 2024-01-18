@@ -1,10 +1,8 @@
 ---
-description: Read me first
+description: This website describes how to create an AI drone.
 ---
 
 # ReadMeFirst
-
-This website describes how to create an AI drone.
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>(part of the Nvidia log0)</p></figcaption></figure>
 
