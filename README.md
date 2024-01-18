@@ -6,7 +6,7 @@ description: This website describes how to create an AI drone
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>(part of the Nvidia log0)</p></figcaption></figure>
 
-I am building an AI drone. I am doing this to learn the core skills needed. This site is called "AuxDone", because I am kind of cooperating with (not yet working for) a company whose name starts with "Aux". Auxdrone is a better name that AI drone (too generic).
+I am building an AI drone. I am doing this to learn the core skills needed. This site is called "AuxDrone", because I am kind of cooperating with (not yet working for) a company whose name starts with "Aux". Auxdrone is a better name that AI drone (too generic).
 
 I am working alone. With no human assistance. So it a lot of work. My main working files, notes, etc. (docs are critical when working alone) are all located on my Gdrive:
 
