@@ -1,8 +1,10 @@
 ---
-description: This website describes how to create an AI drone
+description: Read me first
 ---
 
-# Intro (prologue)
+# ReadMeFirst
+
+This website describes how to create an AI drone.
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>(part of the Nvidia log0)</p></figcaption></figure>
 
@@ -17,4 +19,3 @@ The chapters in this Gitbook match the docs on my Gdrive.
 Its not possible to use GitBook to create and manage such info (too complicated). This GitBook website will be a "sanitized" version of the docs. Something like a conceptual overview/guide that will intro the drone concepts in a logical/orderly fashion. Something that you will find nowhere on the internet. Its a work in progress (WIP, an acronym you will find often on this site).
 
 The Gdrive documents may not be pretty, but if you actually start building an AI drone, you will quickly discover that they are a God-send. Detailed and accurate.  Much better than anything you find elsewhere (the docs on the official ArduPilot website are pure chaos).
-
