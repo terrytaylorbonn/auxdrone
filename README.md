@@ -6,7 +6,7 @@ description: This website will describe from start to finish how to build an AI 
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>(the above is part of the Nvidia logo)</p></figcaption></figure>
 
-I met with a representative of Auxiliumua.org in October 2023. We discussed Auxilium's NGO presence in Ukraine. One of their projects is to build drones that can search for and classify mines (in mine fields). I had some free time and decided to investigate AI and drones.&#x20;
+I began discusssions with Auxiliumua.org in October 2023 about working with Auxilium in Ukraine. One of their projects is to build drones that can search for and classify mines (in mine fields). I really took an interest in AI drones. &#x20;
 
 At first I started doing AI examples (openCV, TensorFlow, Pytorch, etc.). My notes (docs 7a/b, 8, 9) are available at  &#x20;
 
