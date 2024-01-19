@@ -1,6 +1,7 @@
 # Table of contents
 
 * [ReadMeFirst](README.md)
+* [Page](page.md)
 * [Sim concepts](sim-concepts.md)
 * [PART A: Sim FC (SITL)](part-a-sim-fc-sitl.md)
 * [Ch 1: SITL](ch-1-sitl.md)
