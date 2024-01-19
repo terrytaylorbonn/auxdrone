@@ -4,6 +4,8 @@ description: (page description)
 
 # PART C: Further study
 
+The Gdrive ([drive.google.com/drive/folders/1HrzLExPTAL5PIKx\_j\_y0GJ6\_RANR8Tjm](https://drive.google.com/drive/folders/1HrzLExPTAL5PIKx\_j\_y0GJ6\_RANR8Tjm)) document
+
 Add FPV (first person view) capability to drone.
 
 In Parts A and B, I went through the examples as quickly as possible to realize the goal (CC-controlled flight of real copter). I need to go back through and study a lot more topics in detail.

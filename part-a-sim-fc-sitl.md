@@ -6,7 +6,7 @@ The flight controller (FC) is a small computer that is the brains that keeps a q
 
 You can create flight plans that contain simple text commands that tell the FC where to fly the drone.  That's convenient, but also dangerous if your plan has mistakes. &#x20;
 
-The solution: Simulate. Part A describes the following:
+The solution: Simulate. Part A documents ([drive.google.com/drive/folders/1HrzLExPTAL5PIKx\_j\_y0GJ6\_RANR8Tjm](https://drive.google.com/drive/folders/1HrzLExPTAL5PIKx\_j\_y0GJ6\_RANR8Tjm)) describe the following:
 
 * &#x20;Ch 1: SITL (software in the loop). Rather than using a real copter, you use a simulated copter (with a sim FC) in a sim world with sim objects. This chapter describes the rather complex installation and configuration of a simulation system.
 * Ch 2: AI (real camera/CC).  SITL simulation is good enough to verify the commands to the FC, but not for the AI computer/camera. The actual AI object recognition is performed on a "companion" computer (CC). In my docs I demonstrate how to do this with Nvidia Jetson Nano and Raspberry PI4.&#x20;
