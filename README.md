@@ -1,21 +1,21 @@
 ---
-description: This website will describe from start to finish how to build an AI drone.
+description: >-
+  This website (a work in progress) will describe from start to finish how to
+  build an AI drone. The organization and structure are my own.
 ---
 
 # ReadMeFirst
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Yolo AI (camera view) running in a drone simulator</p></figcaption></figure>
 
-I began discusssions with Auxiliumua.org in October 2023 about working with Auxilium in Ukraine. One of their projects is to build drones that can search for and classify mines (in mine fields). This project, and AI drones in general, really intrigued me. &#x20;
+I began discusssions with Auxiliumua.org (an American NGO) in October 2023 about working with Auxilium on drone projects in Ukraine. One of their projects is to build drones that can search for and classify mines (in mine fields). This project, and AI drones in general, really intrigued me. &#x20;
 
 So I started to do some research.  At first I started doing AI examples (openCV, TensorFlow, Pytorch, etc.). My notes (docs 7a/b, 8, 9) are available at  &#x20;
 
-&#x20;    [https://drive.google.com/drive/folders/1CkfDvKPW6hg2nCAZjw19lLWQYFIuOu6Q](https://drive.google.com/drive/folders/1CkfDvKPW6hg2nCAZjw19lLWQYFIuOu6Q)
+&#x20;    [drive.google.com/drive/folders/1CkfDvKPW6hg2nCAZjw19lLWQYFIuOu6Q](https://drive.google.com/drive/folders/1CkfDvKPW6hg2nCAZjw19lLWQYFIuOu6Q)
 
-I then started working on drone simulation. I had no previous drone experience, and I was working alone with no human assistance. Documentation is critical in such a situation. My main drone working files (.docx) are all located on my Gdrive (the chapters in this Gitbook match the docs on my Gdrive):
+I then started working on drone simulation. I had no previous drone experience, and I was working alone with only search engines, Youtube and StackOverflow as assistance. Detailed technical documentation is critical in such a situation. My main drone working files (.docx) are all located on my Google drive (the chapters in this Gitbook correspond to documents on my Gdrive):
 
-&#x20;    [https://drive.google.com/drive/folders/1HrzLExPTAL5PIKx\_j\_y0GJ6\_RANR8Tjm](https://drive.google.com/drive/folders/1HrzLExPTAL5PIKx\_j\_y0GJ6\_RANR8Tjm)
+&#x20;    [drive.google.com/drive/folders/1HrzLExPTAL5PIKx\_j\_y0GJ6\_RANR8Tjm](https://drive.google.com/drive/folders/1HrzLExPTAL5PIKx\_j\_y0GJ6\_RANR8Tjm)
 
-The Gdrive documents may not be pretty, but if you actually start building an AI drone, you will quickly discover that they have  the accurate information you need (please remember that this is a work in progress and that these documents are very draft).&#x20;
-
-It's not possible to use GitBook to create and manage such large and complicated documents. This GitBook website will be a "sanitized" version of my working docs. Something like a conceptual overview/guide that will intro the drone concepts in a logical and orderly fashion. Something that you will find nowhere else on the internet.&#x20;
+The Gdrive documents are working documents that have all the details you need to build a drone from scratch with minimal experience.  It's not possible to use GitBook to create and manage such large and complicated documents. This GitBook website will be a "sanitized" version of my working docs. Basically a conceptual overview that will introduce the drone concepts in a logical and orderly fashion. Something that you will find nowhere else on the internet.&#x20;
