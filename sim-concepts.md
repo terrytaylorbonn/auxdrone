@@ -1,4 +1,4 @@
-# Sim concepts
+# Simulation concepts
 
 The Gdrive ([drive.google.com/drive/folders/1HrzLExPTAL5PIKx\_j\_y0GJ6\_RANR8Tjm](https://drive.google.com/drive/folders/1HrzLExPTAL5PIKx\_j\_y0GJ6\_RANR8Tjm)) document 0\_sim\_concepts\_.docx (draft) explains the major AI and drone concepts.  The content and organization are my own.
 
