@@ -1,7 +1,3 @@
----
-description: asdfasdfasas
----
-
 # Ch 4: Flight plan controlled sim
 
 Now we now with a good level of confidence that the intervention that the AI CC takes when it recognizes something is going to do what we expect. The next step is to learn how to work with the major flight plan software (QGroundControl, Mission Planner, etc.) to create mission flight plans.&#x20;
