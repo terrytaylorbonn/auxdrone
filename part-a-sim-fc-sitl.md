@@ -2,7 +2,7 @@
 
 The flight controller (FC) is a small computer that is the brains that keeps a quad copter in the air. The only control surfaces a copter has are the 4 rotors. A human can not flight such a complex aircraft. That's the job of the FC.&#x20;
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>The PixHawk flight controller (FC)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>The PixHawk flight controller (FC)</p></figcaption></figure>
 
 You can create flight plans that contain simple text commands that tell the FC where to fly the drone.  That's convenient, but also dangerous if your plan has mistakes. &#x20;
 

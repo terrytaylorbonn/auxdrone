@@ -4,11 +4,11 @@ description: This website will describe from start to finish how to build an AI 
 
 # ReadMeFirst
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>(the above is part of the Nvidia logo)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Yolo AI (camera view) running in a drone simulator</p></figcaption></figure>
 
-I began discusssions with Auxiliumua.org in October 2023 about working with Auxilium in Ukraine. One of their projects is to build drones that can search for and classify mines (in mine fields). I really took an interest in AI drones. &#x20;
+I began discusssions with Auxiliumua.org in October 2023 about working with Auxilium in Ukraine. One of their projects is to build drones that can search for and classify mines (in mine fields). This project, and AI drones in general, really intrigued me. &#x20;
 
-At first I started doing AI examples (openCV, TensorFlow, Pytorch, etc.). My notes (docs 7a/b, 8, 9) are available at  &#x20;
+So I started to do some research.  At first I started doing AI examples (openCV, TensorFlow, Pytorch, etc.). My notes (docs 7a/b, 8, 9) are available at  &#x20;
 
 &#x20;    [https://drive.google.com/drive/folders/1CkfDvKPW6hg2nCAZjw19lLWQYFIuOu6Q](https://drive.google.com/drive/folders/1CkfDvKPW6hg2nCAZjw19lLWQYFIuOu6Q)
 
