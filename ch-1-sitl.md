@@ -5,6 +5,7 @@ SITL (software in the loop). Rather than using a real copter, you use a simulate
 
 
 
+![image](https://github.com/terrytaylorbonn/auxdrone/assets/20533814/17c07ed0-21cd-4dc8-bda0-123c97903ed5)
 
 
 7 [MAVlink] Starting Ardupilot Simulator (SITL)
