@@ -6,6 +6,9 @@ description: >-
 
 # ReadMeFirst
 
+CLICK ON "Wiki" above to access the wiki.  The rest of this readme refers to an old version of how I planned to do things.
+
+
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Yolo AI (camera view) running in a drone simulator</p></figcaption></figure>
 
 I began discussions with Auxiliumua.org (an American NGO) in October 2023 about working with Auxilium on drone projects in Ukraine. One of their projects is to build drones that can search for and classify mines (in mine fields). This project, and AI drones in general, really intrigued me. It would also be a good way to improve my Linux, Python and C++ skills. &#x20;
